@@ -1,0 +1,1 @@
+export const DB_NAME = "videotube"; //note a system specific variable, not sensitive, so no need to store in .env . but for easy modification, we can store it here.
